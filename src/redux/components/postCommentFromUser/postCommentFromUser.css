@@ -1,0 +1,46 @@
+
+.collapseBox {
+    padding: 10px;
+    border: 2px solid #d3d3d3;
+    box-shadow: 5px 5px 5px grey;
+    background-color: #666;
+    color: white;
+}
+.collapsingData {
+    border: 2px solid #d3d3d3;
+    padding: 10px 8px;
+    background-color: white;
+    color: black;
+}
+.collapsingComment {
+    border: 2px solid #d3d3d3;
+    padding: 10px 8px;
+    background-color: #777;
+    color: white;
+}
+.commentBtn {
+    margin-left: 85%;
+    margin-right: 5%;
+    width: 13%;
+} 
+
+button {
+    padding: 5px 10px;
+    font-size: 17px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: rgba(27, 131, 201, 0.616);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 8px #999;
+  }
+  
+  button:hover {background-color: #3e8e41ad}
+  
+  button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+  }

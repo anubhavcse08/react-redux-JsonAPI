@@ -1,0 +1,11 @@
+
+.table-hover tr:nth-child(even){background-color: #b8b7b75e;}
+
+.table-hover tr:hover {background-color: rgba(199, 204, 194, 0.774);color: rgba(10, 53, 49, 0.705);}
+
+.userDetails {
+    text-align: center;
+    font-size: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: maroon;
+}
